@@ -10,7 +10,7 @@ parses (US + EU) and baked into the addon, so it works with no internet access.
 ## Install (WoWUp)
 
 1. In WoWUp, choose **Install from URL / Import** and paste:
-   `https://github.com/polaris1976/glooms-build-barn`
+   `https://github.com/HandofDevastation/GloomsBuildBarn`
 2. WoWUp tracks new releases — updates land like any other addon.
 
 ## Use
